@@ -42,3 +42,4 @@ def update(lst, key, newkey):
             lst[i] = newkey
             return lst
     return -1
+
