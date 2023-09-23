@@ -34,7 +34,7 @@ def delete(lst, key):
             lst.pop(i)
             return lst
     return -1
-   
+      
 'write a function to realize update functionality'
 def update(lst, key, newkey):
     for i in range(len(lst)):
